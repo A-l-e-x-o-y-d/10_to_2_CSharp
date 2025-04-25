@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\bin\Debug\netstandard2.0\Lab_03.deps.json
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\bin\Debug\netstandard2.0\Lab_03.dll
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\bin\Debug\netstandard2.0\ref\Lab_03.dll
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\bin\Debug\netstandard2.0\Lab_03.pdb
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.dll
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\refint\Lab_03.dll
+C:\Users\Alexey\Desktop\MaEOS_Labs\Lab_03\Lab_03\Lab_03\obj\Debug\netstandard2.0\Lab_03.pdb

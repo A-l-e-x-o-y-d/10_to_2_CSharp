@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab_03.MainPage">
+
+    <StackLayout Orientation="Vertical" Spacing="0">
+        <Label>Десятичное</Label>
+        <Entry x:Name="txtDec" Text="" Keyboard="Numeric"/>
+        <Label>Двоичное</Label>
+        <Entry x:Name="txtBin" Text="" Keyboard="Numeric" />
+        <Button x:Name="btnDecToBinAndConversely" Text="Перевести" Clicked="DecToBinAndConversely"/>
+    </StackLayout>
+
+</ContentPage>
